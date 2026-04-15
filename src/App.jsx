@@ -20,7 +20,7 @@ function App() {
               <section id="home">
                 <Hero />
               </section>
-
+<button>Just testing</button>
               {/* 2. Flavors Section (Bento Grid with Highlighting) */}
               <FlavorsSection /> 
 
